@@ -1,0 +1,5 @@
+# Ignore SCSS directory
+/scss/
+
+# Ignore notes.md
+notes.md
